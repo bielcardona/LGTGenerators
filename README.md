@@ -1,7 +1,7 @@
 # Supplementary files for "Generation of level-k LGT networks"
 ## By J.C. Pons, C. Scornavacca, and G. Cardona
 
-The requirements to run these jupyter notebooks are python 3.6 with the library `phylonetworks` installed (can be installed via `pip`)
+The requirements to run these jupyter notebooks are python 3.6 with the library `phylonetwork` installed (can be installed via `pip`). The library `matplotlib` is also necessary to reproduce the plots in `evolution_model.py`
 
 The included files are:
 
